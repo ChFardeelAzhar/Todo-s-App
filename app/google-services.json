@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207687943173",
+    "project_id": "to-dos-app-7e2e9",
+    "storage_bucket": "to-dos-app-7e2e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207687943173:android:7ec092c7ba60ae7d0a886c",
+        "android_client_info": {
+          "package_name": "com.example.to_dosapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu6Ea2SvLESw8RHCN-K9TAs61WVKnqqJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
