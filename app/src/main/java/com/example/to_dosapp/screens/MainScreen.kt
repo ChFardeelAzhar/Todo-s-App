@@ -600,7 +600,7 @@ fun SingleTodoItem(
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .padding(vertical = 15.dp, horizontal = 8.dp),
+                .padding(vertical = 13.dp, horizontal = 8.dp),
             horizontalArrangement = Arrangement.Start,
             verticalAlignment = Alignment.CenterVertically
         ) {
